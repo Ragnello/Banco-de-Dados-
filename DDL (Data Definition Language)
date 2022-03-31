@@ -51,7 +51,3 @@ DROP TABLE: Comando para excluir tabelas ou o conteúdo das tabelas.
 - Sintaxe
 
     DROP TABLE Tabela
-
-TRUNCATE TABLE: Exclui todo o conteúdo da tabela, mas deixa a estrutura intacta (colunas inatctas)
-- Sintaxe		
-    TRUNCATE TABLE Tabela
